@@ -313,18 +313,16 @@ body.loaded #preloader {
   text-align: left;
 }
 
-.avatar-mark {
-  width: 120px;
-  height: 120px;
+.avatar-photo {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  object-position: center 18%;
   border-radius: 50%;
-  display: grid;
-  place-items: center;
-  font-weight: 700;
-  font-size: 2rem;
-  color: #fff;
-  background: linear-gradient(135deg, #0078ff, #0b1d36);
+  display: block;
   box-shadow: 0 0 0 10px #fff, 0 12px 24px rgba(0, 120, 255, 0.25);
   margin-bottom: 1.5rem;
+  background: #fff;
 }
 
 .profile-list {
