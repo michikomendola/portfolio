@@ -99,8 +99,8 @@ function handleContactForm() {
     const message = form.message.value.trim();
 
     if (CONTACT_EMAIL.includes("example.com")) {
-      status.textContent =
-        "Form looks good. Add your email in assets/js/main.js to enable mailto sending.";
+      status.innerHTML =
+        'Thanks! Please reach me on <a href="https://www.linkedin.com/in/michikomendola" target="_blank" rel="noopener">LinkedIn</a> while this form is being set up.';
       return;
     }
 

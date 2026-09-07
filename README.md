@@ -2,11 +2,11 @@
 
 Personal QA portfolio layout: Home, About, Certificates, Services, Work, and Contact.
 
-Live URL after you enable GitHub Pages:
+Repository: https://github.com/michikomendola/portfolio
 
-`https://<your-github-username>.github.io/<repo-name>/`
+GitHub Pages URL after you enable it:
 
-If the repository is named `<username>.github.io`, the site is the root of that domain.
+https://michikomendola.github.io/portfolio/
 
 ## Publish on GitHub Pages
 
