@@ -528,6 +528,21 @@ body.loaded #preloader {
   display: block;
 }
 
+.work-media.has-logo {
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem 2rem;
+}
+
+.work-media.has-logo img {
+  width: auto;
+  max-width: 72%;
+  max-height: 78%;
+  object-fit: contain;
+}
+
 .work-media-1 {
   background: linear-gradient(135deg, #0f2a4a, #0078ff);
 }
@@ -672,6 +687,20 @@ body.loaded #preloader {
   width: 100%;
   height: auto;
   display: block;
+}
+
+.article-figure-logo {
+  background: #fff;
+  box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.article-figure-logo img {
+  width: auto;
+  max-width: 280px;
+  max-height: 180px;
 }
 
 .article-wrap h2 {
