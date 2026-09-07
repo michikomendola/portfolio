@@ -1,4 +1,4 @@
-const CONTACT_EMAIL = "YOUR_EMAIL@example.com";
+const CONTACT_EMAIL = "michimendola@gmail.com";
 
 const typedPhrases = [
   "manual & exploratory testing",

@@ -30,7 +30,7 @@ git push -u origin main
 
 | Item | Where |
 | --- | --- |
-| Contact email | `assets/js/main.js` → `CONTACT_EMAIL` |
+| Contact email | `assets/js/main.js` → `CONTACT_EMAIL` (set to michimendola@gmail.com) |
 | Photo | Replace the initials block in `index.html` (`.avatar-mark`) with an `<img>` |
 | GitHub username / extra certs | `index.html` |
 | LinkedIn | already set to [michikomendola](https://www.linkedin.com/in/michikomendola) |
