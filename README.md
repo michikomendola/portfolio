@@ -33,7 +33,7 @@ git push -u origin main
 | Contact email | `assets/js/main.js` → `CONTACT_EMAIL` (set to michimendola@gmail.com) |
 | Photo | `assets/img/profile.png` |
 | GitHub username / extra certs | `index.html` |
-| LinkedIn | already set to [michikomendola](https://www.linkedin.com/in/michikomendola) |
+| Resume PDF | `assets/docs/Michiko-Mendola-Resume.pdf` |
 
 ## Local preview
 
